@@ -1,0 +1,8 @@
+<configuration name="event_simulator.conf" description="Event Simulator Module">
+  <settings>
+    <!-- path of json converted event files -->
+    <param name="path" value="./"/>
+    <param name="event-number" value="10"/>
+    <param name="test" value="true"/>
+  </settings>
+</configuration>
